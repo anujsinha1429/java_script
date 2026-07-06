@@ -1,0 +1,10 @@
+    console.log(10 + "20");
+    console.log("20" - 10);
+    console.log("5" * "6");
+    console.log(false == 0);
+    console.log(false === 0);
+    console.log(true + 5);
+    console.log(typeof "Anuj");
+    console.log(typeof 100);
+    console.log(typeof true);
+    console.log(typeof undefined);
