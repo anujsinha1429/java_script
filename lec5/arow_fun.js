@@ -6,6 +6,7 @@ let iseven=(num)=> num%2===0;
 console.log(iseven(4));
 console.log(iseven(5));
 
+
 let greet= name => "hello "+name ;
 console.log(greet("Alice"));
 
