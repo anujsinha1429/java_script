@@ -21,7 +21,7 @@ console.log(year); // Output: 2024
 // que3:
 
 let person = {
-    name: "Anuj",
+    name: "Anuj kumar ",
     city: "Patna"
 };
 let { name: personName, city}=person;
