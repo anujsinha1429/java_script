@@ -22,7 +22,7 @@ console.log(year); // Output: 2024
 
 let person = {
     name: "Anuj kumar ",
-    city: "Patna"
+    city: "Patna ranchi"
 };
 let { name: personName, city}=person;
 console.log(personName);
