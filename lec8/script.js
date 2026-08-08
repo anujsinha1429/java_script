@@ -11,7 +11,7 @@ const heading = document.querySelector("#heading");
 const btn = document.querySelector("#btn");
 
 btn.addEventListener("click", () => {
-    heading.innerText = "DOM";
+    heading.innerText = "doms are awesome";
 });
 
 // output :heading text changes to DOM when button is clicked
